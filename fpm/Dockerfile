@@ -1,4 +1,4 @@
-FROM php:5.6.15-fpm
+FROM php:5.6.16-fpm
 MAINTAINER Andrea Falco <fox91fox@gmail.com>
 
 COPY content /usr/src/myapp
